@@ -23,7 +23,7 @@ You'll neel a little more than one click.
 Clone repository:
 
 ```
-git clone https://github.com/alexkuz/flask-react-boilerplate.git
+git clone https://github.com/twubbles/flask-react-boilerplate.git
 
 cd react-webpack-boilerplate
 ```
